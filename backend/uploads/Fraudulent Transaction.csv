@@ -1,0 +1,8 @@
+"transaction_id,timestamp,customer_id,amount,currency,merchant_name,merchant_category,location,terminal_type,status"
+"TXN-2026-0091,2026-06-24T03:14:22Z,CUST-8821,12.50,USD,Steam Games,Entertainment,Online,Digital,Approved"
+"TXN-2026-0092,2026-06-24T03:15:01Z,CUST-8821,2500.00,USD,LuxJewelers,Luxury Goods,London-UK,In-Store,Approved"
+"TXN-2026-0093,2026-06-24T03:18:45Z,CUST-8821,5000.00,USD,TechWholesale,Electronics,Tokyo-JP,In-Store,Approved"
+"TXN-2026-0094,2026-06-24T04:02:11Z,CUST-4109,0.05,USD,VendingMatrix,Snacks,NewYork-USA,In-Store,Approved"
+"TXN-2026-0095,2026-06-24T04:02:45Z,CUST-4109,499.99,USD,MaxElectronics,Electronics,NewYork-USA,In-Store,Approved"
+"TXN-2026-0096,2026-06-24T04:03:12Z,CUST-4109,1500.00,USD,TargetStore,Retail,NewYork-USA,In-Store,Approved"
+"TXN-2026-0097,2026-06-24T05:11:00Z,CUST-2234,888.88,USD,CryptoGate,Finance,Online,Digital,Approved"
