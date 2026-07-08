@@ -1,4 +1,4 @@
-# AI Fraud Investigation Assistant
+#  🛡️ AI Fraud Investigation Assistant
 
 An AI-powered Fraud Investigation Assistant that leverages **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)** to analyze financial and compliance documents, retrieve relevant information, and generate accurate, context-aware responses to investigative queries.
 
@@ -6,7 +6,7 @@ Built using **FastAPI**, **React**, **LangChain**, **ChromaDB**, **Llama 3 (via 
 
 ---
 
-## Features
+## ✨ Features
 
 - AI-powered conversational fraud investigation assistant
 - Retrieval-Augmented Generation (RAG) pipeline for context-aware responses
@@ -20,16 +20,16 @@ Built using **FastAPI**, **React**, **LangChain**, **ChromaDB**, **Llama 3 (via 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend
 - React
 - React Router
 - Axios
 - React Markdown
 - CSS
 
-### Backend
+### ⚙️ Backend
 - FastAPI
 - Python
 - LangChain
@@ -41,7 +41,7 @@ Built using **FastAPI**, **React**, **LangChain**, **ChromaDB**, **Llama 3 (via 
 
 ---
 
-## Project Architecture
+## 🏗️ Project Architecture
 
 ```
                 User
@@ -64,7 +64,7 @@ Built using **FastAPI**, **React**, **LangChain**, **ChromaDB**, **Llama 3 (via 
 
 ---
 
-## How It Works
+## 🚀 How It Works
 
 1. Documents are processed and converted into vector embeddings.
 2. Embeddings are stored inside ChromaDB.
@@ -76,7 +76,7 @@ Built using **FastAPI**, **React**, **LangChain**, **ChromaDB**, **Llama 3 (via 
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 AI-Fraud-Investigation-Assistant
@@ -99,7 +99,7 @@ AI-Fraud-Investigation-Assistant
 
 ---
 
-## Installation
+## 📥 Installation
 
 ### Clone the repository
 
@@ -111,7 +111,7 @@ cd ai-fraud-investigation-assistant
 
 ---
 
-### Backend Setup
+### 🔧 Backend Setup
 
 ```bash
 cd backend
@@ -137,7 +137,7 @@ uvicorn main:app --reload
 
 ---
 
-### Frontend Setup
+### 🎨 Frontend Setup
 
 ```bash
 cd frontend
@@ -149,7 +149,7 @@ npm run dev
 
 ---
 
-## Example Questions
+## 💬 Example Questions
 
 - Summarize suspicious financial activities.
 - Identify potential AML compliance issues.
@@ -160,7 +160,7 @@ npm run dev
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Real-time fraud intelligence integration
 - Advanced reranking techniques for improved retrieval
@@ -184,7 +184,7 @@ npm run dev
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Kiransree Vijayakumar**
 
