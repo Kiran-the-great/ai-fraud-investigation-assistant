@@ -173,6 +173,13 @@ npm run dev
 
 ---
 
+## 🎥 Project Demo
+
+▶️ **Watch the demo:**  
+https://github.com/user-attachments/assets/0190d100-1238-413f-aefc-1413bb7ee884
+
+---
+
 ## Acknowledgements
 
 - LangChain
